@@ -1,0 +1,6 @@
+# Forensic disk images
+*.dd
+
+# Packet capture files
+*.pcap
+*.pcapng
